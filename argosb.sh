@@ -28,7 +28,7 @@ echo "双栈VPS显示IPv6节点配置：ip=6 agsb或者脚本 list"
 echo "卸载脚本：agsb或者脚本 del"
 }
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "甬哥Github项目 ：github.com/godycg2"
+echo "甬哥Github项目 ：github.com/yonggekkk"
 echo "甬哥Blogger博客 ：ygkkk.blogspot.com"
 echo "甬哥YouTube频道 ：www.youtube.com/@ygkkk"
 echo "【godycg2】ArgoSB一键无交互极简脚本【Sing-box + Xray + Argo三内核合一】"
